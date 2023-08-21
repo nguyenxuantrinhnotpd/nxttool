@@ -7,7 +7,7 @@ printf '\n\033[1;32m Tiến Hành Cài Python\n\n'
 pkg install python
 pip install --upgrade pip
 pip install requests
-curl -s https://raw.githubusercontent.com/nguyenxuantrinhnotpd/nxttool/main/setup.sh -o $home/usr/bin/nxtrinh
+curl -s https://raw.githubusercontent.com/nguyenxuantrinhnotpd/nxttool/main/a -o $home/usr/bin/nxtrinh
 chmod 777 $home/usr/bin/nxtrinh
 
 printf '\n\033[1;32m Gõ \033[1;33mnxtrinh \033[1;32mĐể Vào Tool <3\n\n'
