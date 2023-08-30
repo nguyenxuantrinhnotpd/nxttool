@@ -1,4 +1,4 @@
-#!/bin/python3
+#!/bin/python
 __Copyright__ = 'Nguyễn Xuân Trịnh'
 __Encode_Author__ = 'Nguyễn Xuân Trịnh && KhanhNguyen9872'
 __Đừng_Cố_Dec_Tool__ = 'Đây Chỉ Là Lớp Ngoài Thôi!!!'
