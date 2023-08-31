@@ -1,3 +1,4 @@
+// mày vô đây làm con cặc gì?
 home='/data/data/com.termux/files/'
 printf '\n\033[1;32m Tiến Hành Cài Dữ Liệu\n\n'
 termux-setup-storage
