@@ -1,6 +1,6 @@
-// mày vô đây làm con cặc gì?
-printf '\n\033[1;32m Hiện (Y/n) Thì Gõ y Rồi Nhấn Enter\nNếu Hiện (Default=N) Thì Nhấn Enter\n\n'
+// Mày vô đây làm con cặc gì?
 home='/data/data/com.termux/files/
+printf '\n\033[1;32m Nếu Hiện (Y/n) Hãy Gõ Y Rồi Nhấn Enter.\nNếu Hiện (Default=N) Hãy Nhấn Enter\n\n'
 printf '\n\033[1;32m Hãy Kiên Nhẫn Chờ Đợi\n\n'
 printf '\n\033[1;32m Đang Cài Dữ Liệu Cho Termux\n\n'
 termux-setup-storage
