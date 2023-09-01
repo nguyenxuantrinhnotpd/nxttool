@@ -1,3 +1,4 @@
+clear
 home='/data/data/com.termux/files/'
 printf '\n\033[1;32m Nếu Hiện (Y/n) Hãy Gõ Y Rồi Nhấn Enter.\n\n Còn Nếu Hiện (Default=N) Hãy Nhấn Enter\n\n'
 printf '\n\033[1;32m Hãy Kiên Nhẫn Chờ Đợi\n\n'
