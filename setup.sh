@@ -1,4 +1,3 @@
-//Vô ĐÂy LÀm COn CẶc Gì???(nxtrinh)
 home='/data/data/com.termux/files/'
 printf '\n\033[1;32m Nếu Hiện (Y/n) Hãy Gõ Y Rồi Nhấn Enter.\n\n Còn Nếu Hiện (Default=N) Hãy Nhấn Enter\n\n'
 printf '\n\033[1;32m Hãy Kiên Nhẫn Chờ Đợi\n\n'
@@ -15,4 +14,3 @@ chmod 777 $home/usr/bin/nxtrinh
 pkg install dos2unix
 dos2unix /data/data/com.termux/files/usr/bin/nxtrinh
 printf '\n\033[1;32m8=> Ghi \033[1;33mnxtrinh \033[1;32mĐể Được Vào Tool <=8\n\n'
-//Vô ĐÂy LÀm COn CẶc Gì???(nxtrinh)
